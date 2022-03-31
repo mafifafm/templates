@@ -4,7 +4,7 @@ title: Bardi 16A
 model: 16A-WEM
 image: /assets/images/bardi_16A-WEM.jpg
 template: '{"NAME":"BARDI","GPIO":[56,0,0,0,0,134,0,0,21,17,132,57,131],"FLAG":0,"BASE":18}' 
-link: 
+link: https://www.tokopedia.com/bardistore/bardi-smart-plug-wifi-wireless-colokan-iot-smart-home
 link2: 
 mlink: https://bardi.co.id/products/portable-plug-16a-wem/
 flash: tuya-convert
